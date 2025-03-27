@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "preact": "^10.26.2",
-    "preact-custom-element": "^4.3.0"
+    "preact-custom-element": "^4.3.0",
+    "react-bulma-components": "^4.1.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.10.1",

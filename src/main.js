@@ -1,4 +1,4 @@
-import {App} from "./app"
+import {SubscriberForm} from "./form"
 import register from 'preact-custom-element';
 
-register(App, 'x-app');
+register(SubscriberForm, 'x-subscriberform');
